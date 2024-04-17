@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\uAE30\uD0C0\\\uBC31\uC5C5\\04_cpp_code\\Win_exec\\03_MPS_control\\MpsManual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A50568-3698-4A1A-84DD-F8E947E12994}|MpsManual\\MpsManual.vcxproj|C:\\Users\\admin\\Desktop\\\uAE30\uD0C0\\\uBC31\uC5C5\\04_cpp_code\\Win_exec\\03_MPS_control\\MpsManual\\MpsManual\\MPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88A50568-3698-4A1A-84DD-F8E947E12994}|MpsManual\\MpsManual.vcxproj|solutionrelative:MpsManual\\MPS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MPS.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\uAE30\uD0C0\\\uBC31\uC5C5\\04_cpp_code\\Win_exec\\03_MPS_control\\MpsManual\\MpsManual\\MPS.cpp",
+              "RelativeDocumentMoniker": "MpsManual\\MPS.cpp",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\\uAE30\uD0C0\\\uBC31\uC5C5\\04_cpp_code\\Win_exec\\03_MPS_control\\MpsManual\\MpsManual\\MPS.cpp",
+              "RelativeToolTip": "MpsManual\\MPS.cpp",
+              "ViewState": "AQIAADcBAAAAAAAAAAAAAEMBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-08T01:13:29.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

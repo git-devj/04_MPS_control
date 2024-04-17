@@ -1,0 +1,23 @@
+﻿  hardware.cpp
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MPS.h(15,1): warning C4005: 'LONG_MAX': 매크로 재정의
+  (소스 파일 'hardware.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\limits.h(39,1):
+  'LONG_MAX'의 이전 정의를 참조하십시오.
+  
+  MPS.cpp
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MPS.h(15,1): warning C4005: 'LONG_MAX': 매크로 재정의
+  (소스 파일 'MPS.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\limits.h(39,1):
+  'LONG_MAX'의 이전 정의를 참조하십시오.
+  
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MPS.cpp(44,10): warning C4309: 'return': 상수 값이 잘립니다.
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MPS.cpp(44,34): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+  MpsManual.cpp
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MpsManual.cpp(9,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\MpsManual\MPS.h(15,1): warning C4005: 'LONG_MAX': 매크로 재정의
+  (소스 파일 'MpsManual.cpp'을(를) 컴파일하는 중)
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\limits.h(39,1):
+  'LONG_MAX'의 이전 정의를 참조하십시오.
+  
+  코드를 생성하고 있습니다...
+  MpsManual.vcxproj -> C:\Users\admin\Desktop\기타\백업\04_cpp_code\Win_exec\03_MPS_control\MpsManual\x64\Debug\MpsManual.exe
